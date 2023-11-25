@@ -12,3 +12,5 @@ Set on the fictional continents of Westeros and Essos, Game of Thrones has a lar
 ## Tyrion Lannister
 
 ![alt text](https://github.com/Christian-Labuanan/app-dev-TP/blob/readme-edits/tyrion.jpg)
+###  “Once you’ve accepted your flaws, no one can use them against you.” 
+###                                                 - Tyrion Lannister
