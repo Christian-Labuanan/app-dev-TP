@@ -19,4 +19,5 @@ Set on the fictional continents of Westeros and Essos, Game of Thrones has a lar
 ###  - Tyrion Lannister
 
 # Trailer
-[GoT](https://www.youtube.com/watch?v=KPLWWIOCOOQ)
+[Game of Thrones Official Trailer](https://www.youtube.com/watch?v=KPLWWIOCOOQ)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=KPLWWIOCOOQ)
