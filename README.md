@@ -3,6 +3,9 @@
 
 ![alt text](https://github.com/Christian-Labuanan/app-dev-TP/blob/readme-edits/gigachad.jpg)
 
+# Genre
+> **Action, Adventure, Drama, 18+**
+
 ## Overview
 > "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.
 
