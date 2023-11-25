@@ -10,3 +10,5 @@ Set on the fictional continents of Westeros and Essos, Game of Thrones has a lar
 
 # Most liked character in my opinion
 ## Tyrion Lannister
+
+![alt text]([image.jpg](https://github.com/Christian-Labuanan/app-dev-TP/blob/readme-edits/tyrion.jpg)https://github.com/Christian-Labuanan/app-dev-TP/blob/readme-edits/tyrion.jpg)
