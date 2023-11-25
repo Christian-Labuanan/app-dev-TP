@@ -6,6 +6,10 @@
 # Genre
 > **Action, Adventure, Drama, 18+**
 
+#Cast
+> Daenerys Targaryen - (played by Emilia Clarke) Daenerys Stormborn of House Targaryen, the First of Her Name, Queen of the Andals and the First Men, Protector of the Seven Kingdoms, the Mother of Dragons, the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains.
+> Jon Snow - (played by Kit Harington) the king beyond the north
+
 ## Overview
 > "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.
 
